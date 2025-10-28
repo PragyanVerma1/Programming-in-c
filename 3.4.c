@@ -1,5 +1,5 @@
 //WAP to check if three points (x1,y1), (x2,y2) and (x3,y3) are collinear or not.
-//Formula= A = ½|x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2)
+//Formula= A = Â½|x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2)
 #include<stdio.h>
 int main(){
 	double x1, y1, x2, y2, x3, y3;
